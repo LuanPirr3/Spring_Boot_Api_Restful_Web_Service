@@ -86,7 +86,3 @@ http://localhost:8080/greeting?name=User
 
 ---
 
-## 📧 Contato
-👤 **Autor:** [Luan Pierre](https://www.linkedin.com/in/luan-pierre-engsoft)
-
----
