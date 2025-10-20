@@ -20,7 +20,7 @@ O projeto foi criado a partir do **Spring Initializr** e pode ser executado com 
 ### 🔹 1. Gerar o projeto pelo Spring Initializr
 Acesse [https://start.spring.io](https://start.spring.io)
 
-- **Project:** Maven ou Gradle  
+- **Project:** Maven 
 - **Language:** Java  
 - **Spring Boot:** versão estável mais recente  
 - **Dependencies:**  
